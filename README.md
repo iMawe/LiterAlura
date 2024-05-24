@@ -8,7 +8,7 @@ LiterAlura es una aplicación de consola Java que te permite gestionar una bibli
 ## Configuración
 - Clona el repositorio:
 
-git clone https://github.com/tu_usuario/literalura.git
+git clone https://github.com/iMawe/literalura.git
 
 - Importa el proyecto en tu IDE (por ejemplo, Eclipse, IntelliJ IDEA).
 
